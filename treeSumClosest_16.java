@@ -1,5 +1,3 @@
-import jdk.nashorn.internal.runtime.Undefined;
-
 class Solution16 {
   public static void main(String[] args) {
     Solution16 t = new Solution16();
